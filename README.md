@@ -1,2 +1,1 @@
-# TG-Notify-bot
-Notification bot for Telegram
+# Notify Service (NonFree)
